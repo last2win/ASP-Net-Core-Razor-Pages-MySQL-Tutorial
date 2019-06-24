@@ -32,4 +32,5 @@ git clone https://github.com/zhang0peter/ASPNetCoreRazorPagesMySQLTutorial.git
 cd ASPNetCoreRazorPagesMySQLTutorial/
 dotnet run
 ```
-**注意修改appsettings.json中的数据库连接字符串为自己的数据库地址**
+**注意修改appsettings.json中的数据库连接字符串为自己的数据库地址**    
+然后打开页面： http://localhost:5000/Movies/
