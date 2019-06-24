@@ -26,9 +26,10 @@ ASP .Net Core Razor Pages MySQL Tutorial
 ![sample-page](sample-page.png)
 
 项目运行方法：   
-*注意修改appsettings.json中的数据库连接字符串为自己的数据库地址*
+
 ```js
 git clone https://github.com/zhang0peter/ASPNetCoreRazorPagesMySQLTutorial.git
 cd ASPNetCoreRazorPagesMySQLTutorial/
 dotnet run
 ```
+**注意修改appsettings.json中的数据库连接字符串为自己的数据库地址**
