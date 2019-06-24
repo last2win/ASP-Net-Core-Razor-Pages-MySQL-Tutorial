@@ -24,3 +24,11 @@ ASP .Net Core Razor Pages MySQL Tutorial
 最后，您将拥有一个可以显示和管理电影数据库的应用程序：   
 
 ![sample-page](sample-page.png)
+
+项目运行方法：   
+*注意修改appsettings.json中的数据库连接字符串为自己的数据库地址*
+```js
+git clone https://github.com/zhang0peter/ASPNetCoreRazorPagesMySQLTutorial.git
+cd ASPNetCoreRazorPagesMySQLTutorial/
+dotnet run
+```
